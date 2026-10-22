@@ -1,0 +1,8 @@
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;resources&gt;
+    &lt;string name="app_name"&gt;VedaVPN&lt;/string&gt;
+    &lt;string name="notification_title"&gt;VedaVPN&lt;/string&gt;
+    &lt;string name="tamper_banner_title"&gt;⚠️ Неофициальная сборка VedaVPN&lt;/string&gt;
+    &lt;string name="tamper_banner_message"&gt;Вы используете модифицированную сборку VedaVPN на основе открытого проекта ByeDPI Russia. Подпись этой сборки отличается от подписи оригинального приложения. Это предупреждение ожидаемо для сторонней сборки, но устанавливайте приложение только из доверенного репозитория VedaVPN. Исходный код можно проверить на GitHub.&lt;/string&gt;
+    &lt;string name="tamper_banner_btn_github"&gt;Открыть репозиторий VedaVPN&lt;/string&gt;
+&lt;/resources&gt;
